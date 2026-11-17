@@ -1,0 +1,58 @@
+[
+  {
+    "name": "p2-image-processing",
+    "source_files": 18,
+    "source_lines_including_scaffolding": 2680,
+    "origin": "https://github.com/shufubianyibo/p2_image_processing",
+    "snapshot_commit": "aac23ea7c76a074a706017bb42add20dee0fd8a4",
+    "file_count": 45
+  },
+  {
+    "name": "p4",
+    "source_files": 2,
+    "source_lines_including_scaffolding": 630,
+    "origin": null,
+    "snapshot_commit": null,
+    "file_count": 9
+  },
+  {
+    "name": "p3",
+    "source_files": 14,
+    "source_lines_including_scaffolding": 3092,
+    "origin": null,
+    "snapshot_commit": null,
+    "file_count": 17
+  },
+  {
+    "name": "p5",
+    "source_files": 11,
+    "source_lines_including_scaffolding": 3538,
+    "origin": null,
+    "snapshot_commit": null,
+    "file_count": 15
+  },
+  {
+    "name": "p6",
+    "source_files": 9,
+    "source_lines_including_scaffolding": 2533,
+    "origin": null,
+    "snapshot_commit": null,
+    "file_count": 11
+  },
+  {
+    "name": "starter-files",
+    "source_files": 10,
+    "source_lines_including_scaffolding": 1750,
+    "origin": null,
+    "snapshot_commit": null,
+    "file_count": 13
+  },
+  {
+    "name": "eecs280_pokemon_lab",
+    "source_files": 9,
+    "source_lines_including_scaffolding": 1522,
+    "origin": "https://github.com/jamesjuett/eecs280_pokemon_lab",
+    "snapshot_commit": "b5d0ed6a53899a0dad9403f9eb05204066b108f1",
+    "file_count": 13
+  }
+]
